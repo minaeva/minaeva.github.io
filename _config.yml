@@ -17,12 +17,12 @@ permalink: none
 prose:
   metadata:
     _posts:
-      - name: "tags"
+      - name: "categories"
         field:
           element: "select"
-          label: "Tags"
+          label: "Lesson"
           options:
-            - name: 'Tech'
-              value: 'tech'
-            - name: 'NONTech'
-              value: 'nontech'
+            - name: '01'
+              value: 'lesson01'
+            - name: '02'
+              value: 'lesson02'
