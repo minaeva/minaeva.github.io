@@ -1,3 +1,15 @@
 prose:
   rooturl: '_posts'
   media: 'img'
+  metadata:
+    _posts:
+      - name: "categories"
+      field:
+        element: select
+        options:
+          - name: "урок 1"
+          value: "lesson01"
+          - name: "урок 2"
+          value: "lesson02"
+          - name: "урок 3"
+          value: "lesson03"
