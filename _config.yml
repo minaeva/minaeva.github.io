@@ -20,14 +20,14 @@ prose:
     metadata:
       _posts:
         - name: "category"
-        field:
-          element: "select"
-          label: "Add Categories"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Food Story"
-            value: "galerie"
-            - name: "Aktuelles"
-            value: "news"
-            - name: "Presse"
-            value: "presse"
+          field:
+            element: "select"
+            label: "Add Categories"
+            placeholder: "Choose Tags"
+            options:
+              - name: "Food Story"
+                value: "galerie"
+              - name: "Aktuelles"
+                value: "news"
+              - name: "Presse"
+                value: "presse"
