@@ -6,6 +6,8 @@ prose:
       - name: "categories"
       field:
         element: select
+        label: "выбор урока"
+        placeholder: "УРОК"
         options:
           - name: "урок 1"
           value: "lesson01"
