@@ -12,3 +12,22 @@ github_username:  minaeva
 # Build settings
 markdown: kramdown
 permalink: none
+
+#prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+    metadata:
+      _posts:
+        - name: "category"
+        field:
+          element: "select"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Food Story"
+            value: "galerie"
+            - name: "Aktuelles"
+            value: "news"
+            - name: "Presse"
+            value: "presse"
