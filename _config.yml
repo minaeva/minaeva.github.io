@@ -11,4 +11,4 @@ github_username:  minaeva
 
 # Build settings
 markdown: kramdown
-pernalink: none
+permalink: none
