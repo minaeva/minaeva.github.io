@@ -6,8 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
   к курсу Фотомама
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://minaeva.github.io" # the base hostname & protocol for your site
-twitter_username: minaeva
+#twitter_username: minaeva
 github_username:  minaeva
 
 # Build settings
 markdown: kramdown
+pernalink: none
