@@ -1,1 +1,42 @@
+#prose.io config
 prose:
+  rooturl: '_posts'
+  media: 'img'
+  metadata:
+    _posts:
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Lesson"
+          options:
+            - name: '01'
+              value: 'lesson01'
+            - name: '02'
+              value: 'lesson02'
+            - name: '03'
+              value: 'lesson03'
+            - name: '04'
+              value: 'lesson04'
+            - name: '05'
+              value: 'lesson05'
+            - name: '06'
+              value: 'lesson06'
+            - name: '07'
+              value: 'lesson07'
+            - name: '08'
+              value: 'lesson08'
+            - name: '09'
+              value: 'lesson09'
+            - name: '10'
+              value: 'lesson10'
+            - name: '11'
+              value: 'lesson11'
+            - name: '12'
+              value: 'lesson12'
+            - name: '13'
+              value: 'lesson13'
+            - name: '14'
+              value: 'lesson14'
+            - name: '15'
+              value: 'lesson15'
+
