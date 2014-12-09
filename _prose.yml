@@ -1,17 +1,17 @@
 prose:
-  rooturl: '_posts'
-  media: 'img'
-  metadata:
+ rooturl: '_posts'
+ media: 'img'
+ metadata:
     _posts:
-      - name: "categories"
-      field:
-        element: select
-        label: "выбор урока"
-        placeholder: "УРОК"
-        options:
-          - name: "урок 1"
-          value: "lesson01"
-          - name: "урок 2"
-          value: "lesson02"
-          - name: "урок 3"
-          value: "lesson03"
+        - name: "category"
+        field:
+          element: "select"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Food Story"
+              value: "galerie"
+            - name: "Aktuelles"
+              value: "news"
+            - name: "Presse"
+              value: "presse"
