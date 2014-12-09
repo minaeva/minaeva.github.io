@@ -7,7 +7,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: 'title'
       - name: "categories"
         field:
           element: "select"
