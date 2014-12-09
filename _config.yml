@@ -15,19 +15,14 @@ permalink: none
 
 #prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
-    metadata:
-      _posts:
-        - name: "category"
-          field:
-            element: "select"
-            label: "Add Categories"
-            placeholder: "Choose Tags"
-            options:
-              - name: "Food Story"
-                value: "galerie"
-              - name: "Aktuelles"
-                value: "news"
-              - name: "Presse"
-                value: "presse"
+  metadata:
+    _posts:
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Tags"
+          options:
+            - name: 'Tech'
+              value: 'tech'
+            - name: 'NONTech'
+              value: 'nontech'
