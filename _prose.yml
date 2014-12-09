@@ -1,8 +1,8 @@
 prose:
- rooturl: '_posts'
- media: 'img'
- metadata:
-    _posts:
+   rooturl: '_posts'
+   media: 'img'
+   metadata:
+     _posts:
         - name: "category"
         field:
           element: "select"
