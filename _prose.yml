@@ -11,8 +11,10 @@ prose:
       - name: "categories"
         field:
           element: "select"
-          label: "Lesson"
+          label: "Section"
           options:
+            - name: 'equipment'
+              value: 'equipment'
             - name: '01'
               value: 'lesson01'
             - name: '02'
