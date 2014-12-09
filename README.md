@@ -1,4 +1,4 @@
-[minaeva.github.io](http://manaeva.github.io/)
+[minaeva.github.io](http://minaeva.github.io/)
 =================
 
-Дополнительные материалы к [курсу Фотомама](http://manaeva.kiev.ua/photomama/)
+Дополнительные материалы к [курсу Фотомама](http://minaeva.kiev.ua/photomama/)
