@@ -1,9 +1,7 @@
 # Site settings
 title: Дополнительные материалы к курсу Фотомама
 email: minaeva.school@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Часто задаваемые вопросы к курсу Фотомама
-  http://minaeva.kiev.ua/photomama/
+description:""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://minaeva.github.io" # the base hostname & protocol for your site
 #twitter_username: minaeva
