@@ -3,8 +3,4 @@
 
 Дополнительные материалы к [курсу Фотомама](http://minaeva.kiev.ua/photomama/)
 
-:camel:
-
 :sparkles:
-
-:boom:
