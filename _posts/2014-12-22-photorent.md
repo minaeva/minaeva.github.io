@@ -5,13 +5,11 @@ categories: equipment
 
 Вспышку на утренник, дополнительный объектив в поездку либо всё, что перед покупкой хотите опробовать на деле, можно взять в прокат:
 
-1. [http://www.photorent.kiev.ua/] (http://www.photorent.kiev.ua/)
-2. [http://rental.com.ua/] (http://rental.com.ua/)
-3. [http://fotoprokat.com.ua/] (http://fotoprokat.com.ua/)
+1. [http://www.photorent.kiev.ua/](http://www.photorent.kiev.ua/)
+2. [http://rental.com.ua/](http://rental.com.ua/)
+3. [http://fotoprokat.com.ua/](http://fotoprokat.com.ua/)
 
-[Никто](wikipedia.org)
 С ребятами по первой ссылке (фоторент) я слегка знакома, и за упоминание того, что вы - от меня (Светы Минаевой), они обещали сделать скидку 10%.
 Вторых и третьих лично не знаю, но у них в наличии есть техника марки Nikon.
 
-[http://fotoprokat.com.ua/] (fotoprokat.com.ua)
 
