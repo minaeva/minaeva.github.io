@@ -1,7 +1,7 @@
 ---
 title: "Аренда объективов"
-categories: lesson01
-published: equipment
+categories: equipment
+published: true
 ---
 Вспышку на утренник, дополнительный объектив в поездку либо всё, что перед покупкой хотите опробовать на деле, можно взять в прокат:
 
