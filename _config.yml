@@ -1,7 +1,7 @@
 # Site settings
-title: Фотошкола Светы Минаевой
+title: Школа фотографии Светы Минаевой
 email: minaeva.school@gmail.com
-description: "Дополнительные материалы к курсу Фотомама"
+description: "Дополнительные материалы для учеников"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://minaeva.github.io" # the base hostname & protocol for your site
 #twitter_username: minaeva
